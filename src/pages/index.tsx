@@ -30,6 +30,7 @@ export default function Home() {
         <title>Books Store &amp; Coffee</title>
         <meta name="description" content="Welcome to Books Store &amp; Coffee" />
         <link rel="icon" href="/favicon.ico" />
+        <p></p>
       </Head>
 
       <Grid container direction="column" alignItems="center" spacing={2}>
